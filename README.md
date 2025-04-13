@@ -5,7 +5,7 @@ A modular and configurable pipeline for generating adversarial prompts to evalua
 
 **🥺🥺🥺 Please 🌟STAR🌟 this repo if you think this is helpful, this is very important to me! Thanks !! 🥺🥺🥺**
 
-## Attacker's Perfect Performance - Harmbench Dataset
+## Attacker's Perfect Performance - Harmbench Textual Standard Behaviors
 
 Below is the radar chart showing the attack success rates for different models on the Harmbench dataset:
 
