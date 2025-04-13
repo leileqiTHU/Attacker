@@ -3,6 +3,8 @@
 ---
 A modular and configurable pipeline for generating adversarial prompts to evaluate LLM safety using Attacker-v0.1.
 
+**🥺🥺🥺 Please 🌟STAR🌟 this repo if you think this is helpful, this is very important to me! Thanks !! 🥺🥺🥺**
+
 ## 🚀 Features
 
 - Modular 3-stage pipeline: `Attack ➝ Response ➝ Score`
@@ -100,7 +102,7 @@ If you use this model in your research or work, please cite it as follows:
   title = {The Safety Mirage: Reinforcement-Learned Jailbreaks Bypass Even the
 Most Aligned LLMs},
   year = {2025},
-  howpublished = {\url{URL_to_model_repository}},
+  howpublished = {\url{https://github.com/leileqiTHU/Attacker}},
   note = {Accessed: 2025-04-13}
 }
 ```
