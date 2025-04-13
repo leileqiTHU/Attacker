@@ -1,0 +1,42 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "standard",
+  "dataset_name": "harm_bench",
+  "dataset_size": 22553,
+  "description": "",
+  "download_checksums": {
+    "/data1/public_datasets/HarmBench/standard/train-00000-of-00001.parquet": {
+      "num_bytes": 12347,
+      "checksum": null
+    }
+  },
+  "download_size": 12347,
+  "features": {
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "completion": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 34900,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 22553,
+      "num_examples": 200,
+      "dataset_name": "harm_bench"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
