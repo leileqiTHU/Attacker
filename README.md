@@ -55,17 +55,18 @@ modify the model paths and ports
 
 ### Then, run the pipeline
 ```bash
+cd attack_pipeline
 # Run all stages (attack ➝ respond ➝ score ➝ show_results)
-python -m attack_pipeline.run --stage all
+python run.py --stage all
 
 # Run from saved attacker outputs
-python -m attack_pipeline.run --stage respond
+python run.py --stage respond
 
 # Run from saved attacker outputs
-python -m attack_pipeline.run --stage score
+python run.py --stage score
 
 # Evaluate ASR@K and visualize
-python -m attack_pipeline.run --stage eval
+python run.py --stage eval
 ```
 
 ---
