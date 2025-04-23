@@ -11,6 +11,24 @@ Below is the radar chart showing the attack success rates for different models o
 
 ![Radar Chart - Attacker's Perfect Performance](./assets/radar_chart.png)
 
+---
+
+## 🌟 Researchers Using Attacker-v0.1
+
+Attacker-v0.1 has been explored and utilized by researchers from the following esteemed institutions:
+
+- **Ant Group** – [Website](https://www.antgroup.com/)
+- **NCSOFT** – [Website](https://us.ncsoft.com/en-us)
+- **Northeastern University (USA)** – [Website](https://www.northeastern.edu/)
+- **ShanghaiTech University** – [Website](https://www.shanghaitech.edu.cn/)
+- **The Chinese University of Hong Kong** – [Website](https://www.cuhk.edu.hk/chinese/index.html)
+- **University of Electronic Science and Technology of China** – [Website](https://en.uestc.edu.cn/)
+- **Virtue AI** – [Website](https://www.virtueai.com/)
+- **Zhejiang University** – [Website](https://www.zju.edu.cn/)
+
+We are grateful to these research teams for their contributions and valuable insights into advancing the safety and robustness of Large Language Models.
+
+---
 
 ## 🚀 Features
 
